@@ -1,0 +1,42 @@
+.outline{
+    border: solid black;
+    border-radius: 20px;
+    position: absolute;
+    padding:10px
+}
+
+#image{
+
+    height:250px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+span{
+
+    border: solid;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 4px;
+}
+
+#content{
+
+    width: 76vw;
+}
+
+#heading{
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+
+    border-radius: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+    left: 175px;
+    background-color: rgb(127, 241, 241);
+    color: blue;    
+}
